@@ -1,3 +1,5 @@
 {"commands" : {
-"testcommand": {"value": "Thank you for running the testcommand:{}" , "variable" : "message.author.name", "paramater" : "NULL"}
+"testcommand": {"value": "Thank you for running the testcommand:{}" , "variable" : "message.author.name", "paramater" : "NULL"},
+ "help": {"value": "The current list of commands that exist are as follows {} ", "variable" : "helprender(jsondata)" , "paramater" : "NULL"}
+
 }}
