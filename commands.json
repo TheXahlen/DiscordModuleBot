@@ -1,9 +1,3 @@
 {"commands" : {
-"testcommand": {"value": "Thank you for running the testcommand:{}" , "variable" : "message.author.name", "paramater" : "NULL"},
-"rockman": {"value": "```Enjoy rocks my friend``` https://cdn.discordapp.com/attachments/771955753942253568/842270347957108736/testcommand.gif","variable" : "_" , "paramater" : "NULL"},
-"boobs": {"value": "```sad, the viewer loved boobs :(``` https://tenor.com/view/boobs-tits-minions-excited-gif-12138963", "variable" : "_" , "paramater" : "NULL"},
-"smite": {"value": " <@160859355388968960> ```Hey I'd really love to play smite with you, I promise I won't throw```", "variable" : "_" , "paramater" : "NULL"},
-"viewer": {"value": " ```HE'S GONE THERE IS NO BRINGING HIM BACK PLEASE LET MEMMORIES BE MEMMORIES...```", "variable" : "_" , "paramter" : "NULL"}, 
-"help": {"value": "The current list of commands that exist are as follows {} ", "variable" : "helprender(jsondata)" , "paramater" : "NULL"},
-"ping": {"value": " ```hey {}```", "variable" : "pingcommand()" , "paramater" : "NULL"}    
+"testcommand": {"value": "Thank you for running the testcommand:{}" , "variable" : "message.author.name", "paramater" : "NULL"}
 }}
